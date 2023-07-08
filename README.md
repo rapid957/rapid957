@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rapid957
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning swift IOS development.
+- 💞️ I’m looking to collaborate on mobile app development, machine learning and deep learning
+- 📫 You can reach me on discord @rapid_957
